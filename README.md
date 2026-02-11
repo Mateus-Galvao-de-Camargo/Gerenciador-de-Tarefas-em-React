@@ -1,4 +1,4 @@
-# 🚀 Curso de React - Projeto Gerenciador de Tarefas
+Gerenciador de Tarefas em React
 
 Este é um projeto desenvolvido como parte de um curso de React.
 
