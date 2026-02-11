@@ -2,7 +2,7 @@
 
 Você pode ver o projeto funcionando agora mesmo pelo link abaixo:
 
-👉 [Gerenciador de Tarefas](https://curso-de-react-tau-nine.vercel.app/)
+👉 [Gerenciador de Tarefas](https://gerenciadordetarefasdomateus.vercel.app/)
 
 ## 🛠️ Tecnologias Utilizadas
 
