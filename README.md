@@ -1,14 +1,8 @@
-Gerenciador de Tarefas em React
-
-Este é um projeto desenvolvido como parte de um curso de React.
-
 ## 🔗 Acesse o Projeto
 
 Você pode ver o projeto funcionando agora mesmo pelo link abaixo:
 
 👉 [Gerenciador de Tarefas](https://curso-de-react-tau-nine.vercel.app/)
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
